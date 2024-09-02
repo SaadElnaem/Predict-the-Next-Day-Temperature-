@@ -1,9 +1,6 @@
 # Predict the Next Day Temperature
 A machine learning model is used to predict the next day's temperature based on previous records of many variables.
 
-# Predict-the-next-day-temperature
-A machine learning model is used to predict the next day's temperature based on previous records of many variables.
-
 ## Objective:
 To predict the next-day temperature according to the given conditions, a machine learning model (regression problem) is used. Note: It is NOT a time-series problem.
 
